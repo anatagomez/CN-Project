@@ -1,14 +1,6 @@
 ## Computer Networks Lab Final Project
 # The Canned Room Study App
 
-**Group 10**
-B09902082 李秀
-B09902085 郭雅美
-B09902077 黃麗企
-B09902086 楊心如
-B09902080 王彬
-B09902083 郭俐欣
-
 ## Motivation 
 
 Most students struggle with leaving assignments/tasks up until the last minute leading to increased stress. We wanted to offer a comprehensive solution for students to overcome their procrastination.
@@ -63,12 +55,12 @@ The application's user interface is designed using Tkinter's widgets and layout 
 
 
 ## Demonstration 
-<img src="https://github.com/anatagomez/CN-Project/blob/main/images/blocker.png" width=50% height=50%>
+<img src="https://github.com/anatagomez/CN-Project/blob/main/images/menu.png" width=50% height=50%>
 <img src="https://github.com/anatagomez/CN-Project/blob/main/images/info.png" width=50% height=50%>
-<img src="https://hackmd.io/_uploads/BkX3XcTUh.png" width=50% height=50%>
-<img src="https://hackmd.io/_uploads/S1mhX5pI3.png" width=50% height=50%>
-<img src="https://hackmd.io/_uploads/r1mn7cpIn.png" width=50% height=50%>
-<img src="https://hackmd.io/_uploads/ByXhX9aUh.png" width=50% height=50%>
+<img src="https://github.com/anatagomez/CN-Project/blob/main/images/blocker.png" width=50% height=50%>
+<img src="https://github.com/anatagomez/CN-Project/blob/main/images/player.png" width=50% height=50%>
+<img src="https://github.com/anatagomez/CN-Project/blob/main/images/select_station.png" width=50% height=50%>
+<img src="https://github.com/anatagomez/CN-Project/blob/main/images/timer.png" width=50% height=50%>
 
 
 ## Difficulties
@@ -108,13 +100,4 @@ tkinter 8.6
 - Run server<span/>.py in one terminal.
 - Then run main<span/>.py in another terminal.
 
-## Work Distribution (1-5)
-B09902082 李秀 (5) : Interfaces
-B09902085 郭雅美 (5) : Music channel
-B09902077 黃麗企 (5) : Pomodoro, Blocker
-B09902086 楊心如 (5) : Interfaces
-B09902080 王彬 (5) : Blocker
-B09902083 郭俐欣 (5) : Interfaces
 
-## Source Code 
-https://drive.google.com/drive/folders/1v5HW1s69l70HdqqvmdTdHGoYj8odtVup?usp=sharing 
