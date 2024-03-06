@@ -1,4 +1,5 @@
-# Computer Networks Lab Final Project - The Canned Room Study App
+## Computer Networks Lab Final Project
+# The Canned Room Study App
 
 **Group 10**
 B09902082 李秀
