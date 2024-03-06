@@ -8,10 +8,6 @@ B09902086 楊心如
 B09902080 王彬
 B09902083 郭俐欣
 
-
-[TOC]
-
-
 ## Motivation 
 
 Most students struggle with leaving assignments/tasks up until the last minute leading to increased stress. We wanted to offer a comprehensive solution for students to overcome their procrastination.
