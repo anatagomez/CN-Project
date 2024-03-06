@@ -64,7 +64,7 @@ The application's user interface is designed using Tkinter's widgets and layout 
 
 ## Demonstration 
 <img src="https://github.com/anatagomez/CN-Project/blob/main/images/blocker.png" width=50% height=50%>
-<img src="https://hackmd.io/_uploads/ry737qTLn.png" width=50% height=50%>
+<img src="https://github.com/anatagomez/CN-Project/blob/main/images/info.png" width=50% height=50%>
 <img src="https://hackmd.io/_uploads/BkX3XcTUh.png" width=50% height=50%>
 <img src="https://hackmd.io/_uploads/S1mhX5pI3.png" width=50% height=50%>
 <img src="https://hackmd.io/_uploads/r1mn7cpIn.png" width=50% height=50%>
